@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6deaf23.css",
+    "main.js": "/static/js/main.bb4d591e.js",
+    "static/media/SDeepu.png": "/static/media/SDeepu.34ff86b0f72ad5ecdfe3.png",
+    "static/media/About.jpg": "/static/media/About.488047c6ac83f3508cfa.jpg",
+    "static/media/thankyou.png": "/static/media/thankyou.b5f4d302b7650349488d.png",
+    "index.html": "/index.html",
+    "main.d6deaf23.css.map": "/static/css/main.d6deaf23.css.map",
+    "main.bb4d591e.js.map": "/static/js/main.bb4d591e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6deaf23.css",
+    "static/js/main.bb4d591e.js"
+  ]
+}
